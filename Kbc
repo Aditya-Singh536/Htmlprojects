@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>
+      My project
+    </title>
+  </head>
+
+  <center><body bgcolor='aqua'font='black'>
+    <br>
+    <h2><p>My name is Aditya.<br></p></h2>
+    <h1><p><i>I made a project in python!</i><br></p></h1>
+    <h2><p>It's code is:<br>q = {'Q1':'Slowest animal in the world','Q2':'Fastest car'}<br>
+a = {'A1':'a.Sloth  b.Turtle','A2':'a.Chiron b.Jesko'}<br>
+
+c = q[input('Which question Q1 or Q2 :')]<br>
+
+if c == q['Q1']:<br>
+    print(q['Q1'])
+    print(a['A1'])
+    x = input('Ans:')
+    if x == 'Sloth':<br>
+        print('Correct')
+    elif x == 'Turtle':<br>
+	print('Incorrect')
+elif c == q['Q2']:<br>
+    print(q['Q2'])
+    print(a['A2'])
+    y = input('Ans:')
+    if y == 'Chiron':<br>
+        print('Incorrect')
+    elif y == 'Jesko':<br>
+        print('Correct')</p></h2>
+    <h2><p><b><br><br>Click the button to see it on GitHub!!</b>
+    </p></h2>
+      <a href='https://github.com/Aditya-Singh536/Aditya/blob/main/secretcode.py' target='_Blank'>
+          <center><image src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png' width='100'/></center>
+      </a>
+      <hr width='75%' color="red" size="2.5">
+<h1 align='center'>Thanks to visit!!</h1>
+  </body>
+</center>
+</html>
